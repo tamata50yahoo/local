@@ -81,8 +81,8 @@ http://127.0.0.1:9981/stream/channelid/274355176?profile=pass
 
 #-------------------VTC/VOV-------------------#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7HD60aD.png" tvg-id="2eb6f224ea2871503e9980b69fe347c" group-title="VTC" tvg-chno="36",VTC1 HD
-https://liveh12.vtvcab.vn/hls/ONVTC1_CL/01.m3u8
-#http://127.0.0.1:9981/stream/channelid/577760162?profile=pass
+
+http://127.0.0.1:9981/stream/channelid/577760162?profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WUUXS6T.png" tvg-id="2af309ee9db6867821a2566e23944917" group-title="VTC" tvg-chno="37",VTC2
 http://127.0.0.1:9981/stream/channelid/1846145834?profile=pass
